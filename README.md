@@ -65,7 +65,5 @@
 
 ---
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast&quote=Every+morning+you+have+two+choices%3A+Continue+to+sleep+with+your+dreams+or+wake+up+and+chase+them.&author=Mohammad+Asim" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast&quote=Every+morning+you+have+two+choices%3A+Continue+to+sleep+with+your+dreams+or+wake+up+and+chase+them.&author=Carmelo+Anthony" />
 </p>
-
-
